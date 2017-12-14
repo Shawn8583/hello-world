@@ -1,2 +1,4 @@
 # hello-world
-First day on Github, following the guides now : )
+First day on GitHub, following the guides now : )
+
+Hey, I'm Shawn.
